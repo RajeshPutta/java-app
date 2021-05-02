@@ -1,4 +1,4 @@
-## Java App (DEMO) ##
+## Java App (DEMO) For TeamCity ##
 ##### build the project
 
     ./gradlew build

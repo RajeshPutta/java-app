@@ -1,4 +1,4 @@
-## Java App ##
+## Java App (DEMO) ##
 ##### build the project
 
     ./gradlew build
